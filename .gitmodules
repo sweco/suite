@@ -1,9 +1,6 @@
 [submodule "geoserver/externals/geotools"]
 	path = geoserver/externals/geotools
 	url = git://github.com/boundlessgeo/geotools.git
-[submodule "geoserver/externals/geoserver"]
-	path = geoserver/externals/geoserver
-	url = git://github.com/boundlessgeo/geoserver.git
 [submodule "geoserver/externals/geowebcache"]
 	path = geoserver/externals/geowebcache
 	url = git://github.com/boundlessgeo/geowebcache.git
@@ -43,3 +40,6 @@
 [submodule "geoserver/externals/geomesa"]
 	path = geoserver/externals/geomesa
 	url = https://github.com/boundlessgeo/geomesa.git
+[submodule "geoserver/externals/geoserver"]
+	path = geoserver/externals/geoserver
+	url = https://github.com/sweco/geoserver.git
