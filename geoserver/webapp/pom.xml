@@ -6,7 +6,7 @@
   <groupId>org.opengeo.geoserver</groupId>
   <artifactId>web-app</artifactId>
   <packaging>war</packaging>
-  <version>4.7-SNAPSHOT</version>
+  <version>4.7.1-smoke1-sweco</version>
   <name>OpenGeo Suite GeoServer Web App</name>
   <organization>
     <name>Boundless</name>
@@ -48,7 +48,7 @@
   </repositories>
 
   <properties>
-    <gs.version>2.7-SNAPSHOT</gs.version>
+    <gs.version>2.7.4-sweco</gs.version>
     <gt.version>13-SNAPSHOT</gt.version>
     <jetty.version>7.6.13.v20130916</jetty.version>
     <spring.version>3.2.10.RELEASE</spring.version>
