@@ -8,7 +8,7 @@
  <parent>
    <groupId>org.opengeo</groupId>
    <artifactId>suite</artifactId>
-   <version>4.7-SNAPSHOT</version>
+   <version>4.7.1-smoke1-sweco</version>
  </parent>
 
  <groupId>org.opengeo</groupId>

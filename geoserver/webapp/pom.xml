@@ -49,7 +49,7 @@
 
   <properties>
     <gs.version>2.7.4-sweco</gs.version>
-    <gt.version>13-SNAPSHOT</gt.version>
+    <gt.version>13.5</gt.version>
     <jetty.version>7.6.13.v20130916</jetty.version>
     <spring.version>3.2.10.RELEASE</spring.version>
     <spring.security.version>3.2.4.RELEASE</spring.security.version>

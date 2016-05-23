@@ -4,13 +4,13 @@
   <groupId>org.opengeo.geoserver</groupId>
   <artifactId>web-app-ee</artifactId>
   <packaging>jar</packaging>
-  <version>4.7-SNAPSHOT</version>
+  <version>4.7.1-smoke1-sweco</version>
   <name>OpenGeo Suite Enterprise GeoServer Web App</name>
   <description>Enterprise-only functionality for the OpenGeo Suite Web App</description>
 
   <properties>
-    <gs.version>2.7-SNAPSHOT</gs.version>
-    <gt.version>13-SNAPSHOT</gt.version>
+    <gs.version>2.7.4-sweco</gs.version>
+    <gt.version>13-5</gt.version>
     <jetty.version>7.6.13.v20130916</jetty.version>
     <spring.version>3.2.10.RELEASE</spring.version>
     <spring.security.version>3.2.4.RELEASE</spring.security.version>
